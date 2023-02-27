@@ -1,1 +1,2 @@
-SELECT * FROM products limit 10 offset 3;
+SELECT product_name, id FROM products ORDER BY product_name;
+

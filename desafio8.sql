@@ -1,1 +1,1 @@
-SELECT * FROM products limit 10 offset 3;
+SELECT 5+6 as 'A', 'de' as'Trybe', 8+2 as'eh'; 

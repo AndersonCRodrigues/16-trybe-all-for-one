@@ -1,1 +1,1 @@
-SELECT * FROM products limit 10 offset 3;
+SELECT id FROM products ORDER BY id DESC LIMIT 5;
